@@ -1,0 +1,24 @@
+{
+  "name": "ARD Mediathek",
+  "author": "lzszt",
+  "authorUrl": "https://lzszt.info",
+  "platformUrl": "https://ardmediathek.de",
+  "scriptUrl": "./ardmediathek.js",
+  "version": 0,
+  "iconUrl": "./ard.png",
+  "id": "1c05bfc3-08b9-42d0-93d3-6d52e0fd34d8",
+  "packages": [
+    "Http"
+  ],
+  "allowEval": false,
+  "allowUrls": [
+    "ardmediathek.de",
+    "api.ardmediathek.de"
+  ],
+  "supportedClaimTypes": [
+    3
+  ],
+  "settings": [],
+  "scriptSignature": "gtDmUgMYE78XTcTzHosAKAXH38KpZdQDFt0S4wz+KKBOxZaU4p1EplcV/CVXVzli2vanxDeHdERZmHM8rqd6XRvajh4mHlyMvOufEEJ7cZDPVMC3WTc3gv7bRD2r8Qdnw/rWzhDQoDQKD4/VtVdJ+5k8h34SUVcXDqCG5AmiUXklVuEQJWjNN30KiBWzxb0D/iNJ/1t+y+0lNfARq7R2EiUVuz3u3OkcNn63tJe1QuFCWczu5B20I/HHIXjMbJOrOQnD2ThY5cQ2PEA1dAW3PF882/WvdvmQV5IzRysV6B4UrpbShwXYAT1cM+AMP2KILiwehbwqvd28RZiMvHutTshgIz0EHvjxpcifIe8odt8twVLhevNzTlMW82K4wn8CP6auP30B0xuxBF0qP1FMwgM/le00OkCbgDCJhaeiduG0A7x7q2FKO14QdDCtI/7ILjW2DKjA7qC1KZnrCMypgvdzPCdsk++KSe7ZdEP6//kDHYqpz9HMXqxd0PZ77JeHInirEGYsqVVIqNrOR1fQzLU155l4d1C2zFPYAqqxl7gcRGq9vdGsmjjH8kCB/3e79w5vdTR2/OyumDDD/O3/HB5NcRKMeYNiicvc09Qf/ViQ3pySutb8v6HbNvEwAPebg8a1twASicA7H0e/+tbEtgVjpiDZOCUjYn4n3tYm8LU=",
+  "scriptPublicKey": "MIICIjANBgkqhkiG9w0BAQEFAAOCAg8AMIICCgKCAgEAuRbTwKlkDwDw6ROYvufFvCrXlX+MI8dngtmbiAHSMNfRxUuMa86FjIBLZgBEr8Xy2L/6kKzikJh4CvU5X3XvcbkM/5h1b4xkZPtxtz+QZPMXYR3FlJBG1dv64TcP/D2N8imn4o8fjnUoMrn/4KLy6ipdHQz71iXVQNOogyO+OjWwUCv/bc0w03adwNJWoehEM7MK2/DvZul+RMmowWWlps+ta/mOJyzQuX9+09QRTrgeU8MnN2xRkhoP3GdrP7MCkgF2Xo4VgOIrFw/bCGrR5jCEAeyY1sgwNcN+6N+pFDOaX4Pii5b0O8tCm7xsX0YHTGq+y3btgnnz/CI0GZGOXK7SpXSQT0wL5MONZEWUJ6GL1X3aRfchpD9L2/7X3rQQoNUyfdUx0j1xWU+a/MrX+hSzux4y9XLG4ujjhpnh5wpoBtVRPMJQ7vvvZMGT3EGlcn/gaxvSRGfJ8QoGrSnF3TWU5xTBiLsTuSDAbk8DRZpsQxSvhow+kw24eNS64x/d1lwmIyrXsZ52H+M915DIzI9G/WtqFu1ldunldQiH3YdR2xkvOKhx+6H6YUya+lzFijBlEVAyrsIApqiKzNMe2S2lhNeaohh4VGAwlWyC5m8D8VSNG3cRTi6OAzGSnzZNtnzx4JZfXURpjFSd5I6s1HfLoGJoh0Arzq74cRd9f4ECAwEAAQ=="
+}
